@@ -2,7 +2,7 @@
 class Chat{
     private $host  = 'localhost';
     private $user  = 'dbConUser';
-    private $password   = "phpConnect";
+    private $password   = ""; //removed for upload
     private $database  = "fchat";   
     private $chatTable = 'chat';
     private $chatUsersTable = 'user';
