@@ -6,3 +6,12 @@ It is heavily influenced by the live chat from PHP ZAG, so check out their tutor
 
 We took their 3 base classes chat.js, chat.php and index.php and started from there adapting it to what we needed it to be.
 
+<h2>Used Software</h2>
+<i>IDE</i>
+https://netbeans.apache.org/
+<i>Database workbench</i>
+https://dev.mysql.com/downloads/workbench/
+<i>PHP interpreter<i/>
+
+https://www.apachefriends.org/de/index.html
+  
